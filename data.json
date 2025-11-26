@@ -1,7 +1,16 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "145865483",
+        "Flight": "WS2101",
+        "PickupDate": "2025-11-26",
+        "PickupTime": "10:20",
+        "HotelName": "Royalton Chic Punta Cana An Autograph Collection Allinclusive Resort And Casino  Adults Only ",
+        "HotelNumber": 17196
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
